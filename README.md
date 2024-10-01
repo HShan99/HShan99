@@ -8,8 +8,12 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **React js ,Laravel**
+  
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
+
 - 📫 How to reach me **shanharsharathnayake@gmail.com**
+
+- 📄 Know about my experiences **https://shorturl.at/K3X98**
   
 
 </td>
