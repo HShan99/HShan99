@@ -27,7 +27,7 @@
 </table>
 
 ---
-<h3 align="center">My Statistics:</h3>
+<!--<h3 align="center">My Statistics:</h3>
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=HShan99&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HShan99&theme=tokyonight) |
 | --- | --- |
@@ -35,7 +35,7 @@
 
 <br>
 
----
+----->
 
 <h3 align="center">Languages and Tools:</h3>
 
